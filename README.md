@@ -1,6 +1,6 @@
 # Hey 👋, I'm Saige!
 ---
-~ Full stack developer
+~ Full stack developer<br/>
 ~ Working on [Miuki](https://miuki.sh)
 
 ```js
