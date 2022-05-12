@@ -11,7 +11,7 @@ class Saige {
     this.pronouns = ["she", "her"];
     this.technologies = {
         backEnd: { ts: ["nodejs","express"] },
-        frontEnd: { libarys: ["reactjs", "nextjs", "remix"],
+        frontEnd: { libarys: ["reactjs", "nextjs", "remix"] },
         langs: ["(type|java)script", "CSS", "Python", "Java~Basics"]
     }
   }
