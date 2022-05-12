@@ -5,7 +5,7 @@
 
 ```js
 class Saige {
-  constructor(who: Person) {
+  constructor(who) {
     this.name = "Saige";
     this.age = 14;
     this.pronouns = ["she", "her"];
