@@ -2,21 +2,24 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-
-            @keyframes mymove {
-                from {
-                    color: red;
+                  img {
+                    display: none;
                 }
-                to {
-                    color: yellow;
-                }
-            }
+                .iframe
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;  
+  width: 100%;
+  min-height: 100%;
+  padding-top: 4em;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
             </style>
-            <h1>HELLO WORLD!</h1>
         </div>
     </foreignObject>
 </svg>
